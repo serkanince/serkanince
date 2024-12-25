@@ -2,7 +2,7 @@
 <h2 align="center">Passionate Software Developer | Team Lead | Senior Developer</h2>
 <h4 align="center">
 Living in Ankara, Turkey, I work for Zirve Yazılım as a Team Lead and Senior Developer.  
-With over 10 years of experience, I specialize in software architecture, Agile-driven development, and project leadership.  
+With over 13 years of experience, I specialize in software architecture, Agile-driven development, and project leadership.  
 I have expertise in modern technologies such as .NET 6, C#, SaaS, FaaS, Event-Driven Architecture, CQRS, DDD, and Flutter.  
 </h4>
 
