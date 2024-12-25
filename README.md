@@ -32,5 +32,5 @@ I have expertise in modern technologies such as .NET 6, C#, SaaS, FaaS, Event-Dr
   <img src="https://github-readme-stats.vercel.app/api?username=serkanince&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkanince&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </details>
