@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Serkan</h1>
-<h2 align="center">I'm a passionate software developer living in Ankara, Turkey, working for Zirve Yazılım.</h2>
-<h4 align="center">Hi, I work as a Team Lead / Sr. Developer. I have over 10 years of experience in software architecture and development based on Agile principles, as well as leadership and project management. I possess strong skills in .Net 6, C#, SaaS, FaaS, Event Driven Architecture, Cqrs, DDD, and Flutter</h3>
+<h2 align="center">Passionate Software Developer | Team Lead | Senior Developer</h2>
+<h4 align="center">
+Living in Ankara, Turkey, I work for Zirve Yazılım as a Team Lead and Senior Developer.  
+With over 10 years of experience, I specialize in software architecture, Agile-driven development, and project leadership.  
+I have expertise in modern technologies such as .NET 6, C#, SaaS, FaaS, Event-Driven Architecture, CQRS, DDD, and Flutter.  
+</h4>
+
 
 
 <p align="center"> <a href="https://twitter.com/serkanince_" target="blank"><img src="https://img.shields.io/twitter/follow/serkanince_?logo=twitter&style=for-the-badge" alt="serkanince_" /></a> </p>
