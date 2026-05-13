@@ -7,7 +7,7 @@ I have strong skills in AI Transformation, C#, SaaS, FaaS, Architecture, Python,
 
 
 
-<p align="center"> <a href="https://twitter.com/serkanince_" target="blank"><img src="https://img.shields.io/twitter/follow/serkanince_?logo=twitter&style=for-the-badge" alt="serkanince_" /></a> </p>
+<p align="center"> <a href="https://twitter.com/serkanince_" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serkan-ince/" alt="Serkan İnce Linkedin" /></a> </p>
 
 <details><summary>MORE DETAIL...</summary>
 <h3 align="left">Connect with me:</h3>
