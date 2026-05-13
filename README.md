@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Serkan</h1>
 <h2 align="center">Passionate Software Developer | Team Lead | Senior Developer</h2>
 <h4 align="center">
-Living in Ankara, Turkey, I work for Zirve Yazılım as a Team Lead and Senior Developer.  
-With over 13 years of experience, I specialize in software architecture, Agile-driven development, and project leadership.  
-I have expertise in modern technologies such as .NET 6, C#, SaaS, FaaS, Event-Driven Architecture, CQRS, DDD, and Flutter.  
+Hello, I have more than 13 years of experience in software development based on Agile principles, team management, and project management.
+I have strong skills in AI Transformation, C#, SaaS, FaaS, Architecture, Python, Authentication, DDD, and Flutter.
 </h4>
 
 
